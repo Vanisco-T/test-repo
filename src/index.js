@@ -1,7 +1,6 @@
 import React from 'react';
 import ReactDom from 'react-dom';
 import './index.css';
-import download from './download.jpeg';
 
 import {books} from './books'
 
